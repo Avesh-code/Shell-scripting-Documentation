@@ -4,4 +4,5 @@
 ### [2. Day 2 {14-10-25} of Shell-Scripting](Day-2-14-10-25.md)  
 ### [3. Day 3 {15-10-25} of Shell-Scripting](Day-3-15-10-25.md)  
 ### [4. Day 4 {16-10-25} of Shell-Scripting](Day-4-16-10-25.md)  
-### [5. Day 5 {17-10-25} of Shell-Scripting](Day-5-17-10-25.md)  
+### [5. Day 5 {17-10-25} of Shell-Scripting](Day-5-17-10-25.md) 
+### [6. Day 6 {19-10-25} of Networking](Day-6-19-10-25.md) 
