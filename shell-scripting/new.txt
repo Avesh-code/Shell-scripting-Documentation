@@ -1,0 +1,3 @@
+Dice 1 is 1 
+Dice 2 is 4 
+Total Score is 5 
